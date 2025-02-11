@@ -1,0 +1,54 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #dfc7c7;
+}
+
+.Logo font-size: 50px;
+
+}
+.nav {
+    height: 30px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.nav {
+    margin: 25px;
+    padding: 20px;
+}
+.nav a {
+    nav-right: 25px;
+    font-size: 25px;
+}
+.imge img {
+    width: 50px;
+    height: 300px;
+}
+.container {
+    display: flex;
+    background-color: #e6d5d5;
+}
+.img_container {
+    display: grid;
+    grid-template-columns: repeat(2, 50px);
+}
+.cc {
+    margin: 30px;
+}
+.row1 {
+    display: grid;
+    margin: 1%;
+}
+.products {
+    text-align: center;
+    border: 1px solid gray;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.products button {
+    background-color: #ffce12;
+    padding: 15px;
+    border-radius: 15px;
+}
